@@ -1,4 +1,5 @@
-# Note
+#Giấy phép & chứng nhận
+
 1: Khóa học Responsive Web Design
   // Trên freecodecamp.org
  -Link chứng chỉ : https://freecodecamp.org/certification/tuanhoangvan/responsive-web-design
