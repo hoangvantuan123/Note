@@ -10,4 +10,4 @@
  
  3: Khóa học Các nguyên tắc cơ bản về hỗ trợ kỹ thuật
  // Trên Cousera 
- - link chứng chỉ :  https://www.coursera.org/account/accomplishments/verify/EYFJQNMEGUZR.
+ -Link chứng chỉ :  https://www.coursera.org/account/accomplishments/verify/EYFJQNMEGUZR.
