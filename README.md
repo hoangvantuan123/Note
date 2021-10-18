@@ -10,7 +10,8 @@
  
  3: Khóa học Các nguyên tắc cơ bản về hỗ trợ kỹ thuật
  // Trên Cousera 
- -Link chứng chỉ :  https://www.coursera.org/account/accomplishments/verify/EYFJQNMEGUZR.
+ -Link chứng chỉ :  https://www.coursera.org/account/accomplishments/verify/EYFJQNMEGUZR
+ 
 4 : Giới thiệu về Công cụ an ninh mạng & Tấn công mạng 
 // Trên Cousera 
 -Link chứng chỉ : https://coursera.org/share/30b3591fa2eb9b4e07a8fff62b7dfa0b
